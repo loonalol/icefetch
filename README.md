@@ -1,6 +1,6 @@
 # icefetch
 
-A very crappy fetch script to show hardward and bladee album covers.
+A very crappy fetch script to show hardware and bladee album covers.
 
 ```rust
 cargo run
